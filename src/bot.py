@@ -70,4 +70,3 @@ bot.add_cog(JoinLeave(bot))
 bot.add_cog(Utils(bot))
 
 bot.run()
-
